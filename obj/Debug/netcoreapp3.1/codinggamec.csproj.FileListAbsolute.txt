@@ -1,0 +1,13 @@
+/home/luka/Documents/codinggamec/obj/Debug/netcoreapp3.1/codinggamec.csprojAssemblyReference.cache
+/home/luka/Documents/codinggamec/obj/Debug/netcoreapp3.1/codinggamec.AssemblyInfoInputs.cache
+/home/luka/Documents/codinggamec/obj/Debug/netcoreapp3.1/codinggamec.AssemblyInfo.cs
+/home/luka/Documents/codinggamec/obj/Debug/netcoreapp3.1/codinggamec.csproj.CoreCompileInputs.cache
+/home/luka/Documents/codinggamec/bin/Debug/netcoreapp3.1/codinggamec
+/home/luka/Documents/codinggamec/bin/Debug/netcoreapp3.1/codinggamec.deps.json
+/home/luka/Documents/codinggamec/bin/Debug/netcoreapp3.1/codinggamec.runtimeconfig.json
+/home/luka/Documents/codinggamec/bin/Debug/netcoreapp3.1/codinggamec.runtimeconfig.dev.json
+/home/luka/Documents/codinggamec/bin/Debug/netcoreapp3.1/codinggamec.dll
+/home/luka/Documents/codinggamec/bin/Debug/netcoreapp3.1/codinggamec.pdb
+/home/luka/Documents/codinggamec/obj/Debug/netcoreapp3.1/codinggamec.dll
+/home/luka/Documents/codinggamec/obj/Debug/netcoreapp3.1/codinggamec.pdb
+/home/luka/Documents/codinggamec/obj/Debug/netcoreapp3.1/codinggamec.genruntimeconfig.cache
